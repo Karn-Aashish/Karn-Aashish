@@ -7,13 +7,20 @@
 
 # 💻 Tech Stack:
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,ts,java,html,python,aws,netlify,cloudflare,firebase,gcp,dotnet,angular,opencv,npm,django,express,nodejs,tailwind,wordpress,flutter,apache,apacheairflow,mysql,mongodb,adobe,ai,aftereffects,lightroom,acrobat,photoshop,premiere,canva,tensorflow,pytorch,fastlane,git,github,docker,steam,xbox,ea,epicgames,airbnb,tor,meta,raspberrypi,arduino,nvidia,flask,css,react,vscode" />
+  <img src="https://skillicons.dev/icons?i=c,ts,java,html,python,aws,tailwind,firebase,github,dotnet,angular,gcp,npm,django,nodejs,express,sass,wordpress,mysql,mongodb,ai,aftereffects,photoshop,premiere,tensorflow,pytorch,git,docker,raspberrypi,flask,bootstrap,react,nextjs" />
 </p>
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Karn-Aashish&theme=vision-friendly-dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Karn-Aashish&theme=vision-friendly-dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Karn-Aashish&theme=vision-friendly-dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+## 📈 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Karn-Aashish&theme=vision-friendly-dark&show_icons=true&count_private=true" alt="GitHub stats"/>
+  <br />
+  <img src="http://github-readme-streak-stats.herokuapp.com?user=Karn-Aashish&theme=vision-friendly-dark&date_format=M%20j%5B%2C%20Y%5D&mode=weekly" alt="GitHub Streak" /></a>
+  <br />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Karn-Aashish&layout=compact&theme=vision-friendly-dark" alt="Top Languages"/>
+  <br />
+  <img src="https://github-contributor-stats.vercel.app/api?username=Karn-Aashish&limit=3&theme=vision-friendly-dark&combine_all_yearly_contributions=true" alt="Top Contributors" />
+</p>
 
+---
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
