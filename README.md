@@ -1,3 +1,8 @@
+<h1 align="center">Hey geeks, this is Aashish 🐰</h1>
+<h3 align="center">Code it like a genius, build it like a beast!</h3>
+
+---
+
 # 💫 About Me:
 🔭 I’m currently working on crafting software so futuristic, your grandkids will think I time-traveled. Right now, it’s an online medical analysis project and some wild AI-powered gesture control tech...because mice and keyboards are so last century.<br>👯 I’m looking to collaborate on anything that makes people go, “Damn, that’s genius.” AI, computer vision, automation, or just something that breaks the rules in the smartest way possible. You got an idea that’s nuts but game-changing? Let’s talk.<br>🤝 I’m need help with nothing… yet. But if you’re a wizard at scaling AI models, optimizing real-time processing, or just ridiculously good at breaking and fixing things...I might hit you up.<br>🌱 I’m currently learning how to make machines understand humans better than humans understand themselves<br>💬 Ask me about code, AI, tech, hip-hop, cricket, F1 or why the sky is the greatest masterpiece ever. Just don’t ask me about “how’s life?” ...I got software to write, man.<br>⚡ I started building futuristic tech before my coffee even kicked in. Also, I might be the only person who listens to Eminem while debugging like it’s a rap battle between me and the compiler.
 
@@ -9,7 +14,8 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=c,ts,java,html,python,aws,tailwind,firebase,github,dotnet,angular,gcp,npm,django,nodejs,express,sass,wordpress,mysql,mongodb,ai,aftereffects,photoshop,premiere,tensorflow,pytorch,git,docker,raspberrypi,flask,bootstrap,react,nextjs" />
 </p>
-## 📈 GitHub Stats
+
+# 📈 GitHub Stats:
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Karn-Aashish&theme=vision-friendly-dark&show_icons=true&count_private=true" alt="GitHub stats"/>
   <br />
